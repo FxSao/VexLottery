@@ -1,2 +1,2 @@
 # VexLottery
-嘻嘻
+Version: 1.0
